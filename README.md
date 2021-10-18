@@ -1,4 +1,5 @@
-# Project Name
+![alt text](rock_paper_scissors__2x.png "image rock paper scissors hands")
+# Rock, Paper & Scissors Game
 
 Studing Git Hub 
 
