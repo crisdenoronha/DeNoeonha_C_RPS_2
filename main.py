@@ -1,4 +1,5 @@
 # test about rename
+# new test about rename
 from random import randint
 
 #add player and computer lives
