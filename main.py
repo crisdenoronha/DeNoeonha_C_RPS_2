@@ -1,3 +1,4 @@
+# rename repo 5
 from random import randint
 
 #add player and computer lives
