@@ -1,3 +1,4 @@
+# renamed repo 5
 # set up a variable, check its value, and choose a path to follow based on that condition
 temperature = int(input("input a value between 0 and 100:"))
 
